@@ -8,3 +8,11 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+
+
+# Developing contents
+## realising server.js
+- creating a package.json with node init
+## getting an openWeather API Key
+1- creating an account open Weathe Map [https://openweathermap.org/]
+2- getting a key in myAccount api Key 
